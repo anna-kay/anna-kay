@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anna-kay
-- Data Scientist currently working on NLP tasks ✨
+- I am a Data Scientist currently working on NLP tasks ✨
 - I enjoy problem solving and extracting insights from data 🔍
 - Interested in Responsible AI, both XAI & ethics 🌱
 
