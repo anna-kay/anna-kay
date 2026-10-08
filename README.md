@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anna-kay
-- I am a Machine Learning Data Scientist 🔍✨
+- I am a Machine Learning Engineer 🔍✨
 
 <!---
 anna-kay/anna-kay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
